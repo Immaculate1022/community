@@ -1,2 +1,3 @@
-# community
-PegaConstellation Community — Governance and discussions
+# PegaConstellation Community
+
+Governance, discussions, RFCs, and community initiatives.
